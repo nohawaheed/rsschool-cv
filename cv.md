@@ -7,7 +7,7 @@ integrating APIs, and optimizing cross-device performance. Built 30+ PRs, collab
 full features under agile workflows. Currently learning React and Next.js to expand frontend depth. Eager to contribute to
 fast-moving product teams focusing on usability and accessibility.
 
-# **EXPERIENCE**
+## **EXPERIENCE**
 
 **TIME MACHINE, INC.** *[Japan, Remote]*
 >Front-End Developer *[Jan 2023 – Jan 2024]*
@@ -45,7 +45,7 @@ debugging.
 - Provided remote customer support via Hsoub's Mostaql platform, ensuring effective communication and timely
 ticket resolutions in a distributed team setting.
 
-# **EDUCATION**
+## **EDUCATION**
 
 **FULL STACK PHP DIPLOMA** *[Route Academy, EG] [Jun 2022]*
 >Studied front-end and back-end fundamentals including HTML, CSS, JavaScript, Angular,
@@ -57,7 +57,7 @@ PHP, and MySQL.
 **BACHELOR OF ARTS IN ISLAMIC ARCHAEOLOGY** *[Cairo, EG] [Jun 2013]*
 >Graduated from Ain Shams University, EG.
 
-# **SKILLS**
+## **SKILLS**
 
 - HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind CSS, Responsive Web Design
 - Angular for SPA development and component-based UI
