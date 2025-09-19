@@ -9,8 +9,8 @@ fast-moving product teams focusing on usability and accessibility.
 
 # **EXPERIENCE**
 
-**TIME MACHINE, INC.** [Japan, Remote]
->Front-End Developer [Jan 2023 – Jan 2024]
+**TIME MACHINE, INC.** *[Japan, Remote]*
+>Front-End Developer *[Jan 2023 – Jan 2024]*
 
 - Built a message reply feature in an Angular-based chat application to support targeted responses,
 enhancing overall usability and aligning with intended user interaction patterns, contributing to 100%
@@ -25,8 +25,8 @@ feedback.
 - Updated backend endpoints using Nest.js to support new functionality and ensure consistent API behavior.
 - Integrated RESTful API endpoints using Angular services and NestJS controllers.
 
-**INDEPENDENT DEVELOPER** [Cairo, EG]
->Personal Project – Tazkira [Jan 2024 – Present]
+**INDEPENDENT DEVELOPER** *[Cairo, EG]*
+>Personal Project – Tazkira *[Jan 2024 – Present]*
 
 - Developed a mobile app in Flutter to help users stay consistent with daily Azkar (Islamic remembrances); available
 now on Google Play.
@@ -37,8 +37,8 @@ fast local storage using ObjectBox.
 - Completed MVP in under two months using AI tools (e.g., ChatGPT, Copilot, DeepSeek) for code suggestions and
 debugging.
 
-**VODAFONE, ORANGE, CANADIAN FOR FOAM INDUSTRIES (CFI), HSOUB (MOSTAQL PLATFORM)** [Cairo, EG / Remote]
->Customer Support & Data Entry Specialist [Feb 2016 – Jul 2021]
+**VODAFONE, ORANGE, CANADIAN FOR FOAM INDUSTRIES (CFI), HSOUB (MOSTAQL PLATFORM)** *[Cairo, EG / Remote]*
+>Customer Support & Data Entry Specialist *[Feb 2016 – Jul 2021]*
 
 - Provided customer support for telecom clients, resolving inquiries and technical issues effectively.
 - Handled high-volume data entry at CFI with 98%+ accuracy across internal systems.
@@ -47,14 +47,14 @@ ticket resolutions in a distributed team setting.
 
 # **EDUCATION**
 
-**FULL STACK PHP DIPLOMA** [Route Academy, EG] [Jun 2022]
+**FULL STACK PHP DIPLOMA** *[Route Academy, EG] [Jun 2022]*
 >Studied front-end and back-end fundamentals including HTML, CSS, JavaScript, Angular,
 PHP, and MySQL.
 
-**FRONT-END NANODEGREE CERTIFICATE** [Udacity, Online Course] [Jun 2022]
+**FRONT-END NANODEGREE CERTIFICATE** *[Udacity, Online Course] [Jun 2022]*
 >Completed project-based learning focused on responsive web design and JavaScript.
 
-**BACHELOR OF ARTS IN ISLAMIC ARCHAEOLOGY** [Cairo, EG] [Jun 2013]
+**BACHELOR OF ARTS IN ISLAMIC ARCHAEOLOGY** *[Cairo, EG] [Jun 2013]*
 >Graduated from Ain Shams University, EG.
 
 # **SKILLS**
