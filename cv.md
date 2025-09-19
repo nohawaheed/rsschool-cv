@@ -44,3 +44,16 @@ debugging.
 - Handled high-volume data entry at CFI with 98%+ accuracy across internal systems.
 - Provided remote customer support via Hsoub's Mostaql platform, ensuring effective communication and timely
 ticket resolutions in a distributed team setting.
+
+# **EDUCATION**
+
+**FULL STACK PHP DIPLOMA** [Route Academy, EG] [Jun 2022]
+>Studied front-end and back-end fundamentals including HTML, CSS, JavaScript, Angular,
+PHP, and MySQL.
+
+**FRONT-END NANODEGREE CERTIFICATE** [Udacity, Online Course] [Jun 2022]
+>Completed project-based learning focused on responsive web design and JavaScript.
+
+**BACHELOR OF ARTS IN ISLAMIC ARCHAEOLOGY** [Cairo, EG] [Jun 2013]
+>Graduated from Ain Shams University, EG.
+
