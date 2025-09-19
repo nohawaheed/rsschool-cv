@@ -1,1 +1,1 @@
-https://github.com/nohawaheed/rsschool-cv/cv
+https://nohawaheed.github.io/rsschool-cv/cv
