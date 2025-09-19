@@ -57,3 +57,12 @@ PHP, and MySQL.
 **BACHELOR OF ARTS IN ISLAMIC ARCHAEOLOGY** [Cairo, EG] [Jun 2013]
 >Graduated from Ain Shams University, EG.
 
+# **SKILLS**
+
+- HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind CSS, Responsive Web Design
+- Angular for SPA development and component-based UI
+- Basic NestJS for backend development and REST API integration
+- Git, GitHub, NPM, and Jira for collaboration and version control
+- Foundational knowledge of data structures and algorithms
+- Currently exploring React and Next.js
+- Languages: Arabic (native), English (conversational)
